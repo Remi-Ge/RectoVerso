@@ -8,7 +8,7 @@ The **example_corrected.png** is the example output file with the example.png, d
 
 ![Input Image](example.png)
 
-![Input Image](example_corrected.png)
+![Output Image](example_corrected.png)
 
 ## How to use it
 
