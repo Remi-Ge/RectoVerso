@@ -6,6 +6,10 @@ I made this small python code after a CTF (Capture the flag) event, the cyber ni
 
 The **example_corrected.png** is the example output file with the example.png, dimension_x = 8 and dimension_y = 12 as input.
 
+![Input Image](example.png)
+
+![Input Image](example_corrected.png)
+
 ## How to use it
 
 the library PIL is required !<br>
